@@ -1,5 +1,5 @@
 # USTH Machine Learning in Medicine 2026
 
-* Minh Pham Quang
-* 23BI14296
-* Class do not finish the group divided
+* Full Name: Minh Pham Quang
+* Student ID: 23BI14296
+* Group: 11
